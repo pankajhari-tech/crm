@@ -1,0 +1,7 @@
+{
+  "name": "ClientPulse CRM",
+  "description": "Streamlined customer relationship manager tracking customer details, products, payments, balances, and automated profit calculations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
